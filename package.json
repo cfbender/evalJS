@@ -1,0 +1,10 @@
+{
+  "name": "evalJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "vm2": "^3.8.4"
+  }
+}
