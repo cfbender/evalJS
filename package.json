@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "deploy": "serverless deploy -f test",
+    "log": "serverless logs -f test"
+  },
   "dependencies": {
     "chai": "^4.2.0",
     "vm2": "^3.8.4"
